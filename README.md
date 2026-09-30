@@ -12,7 +12,9 @@ The project uses historical Bengaluru weather data from **2020–2025** and a tr
 
 ## 🚀 Live Demo
 
-Coming soon — deployed with Streamlit Community Cloud.
+👉 https://heatsense.streamlit.app/
+
+Try HeatSense live and explore the interactive heat-risk prediction dashboard.
 
 ---
 
