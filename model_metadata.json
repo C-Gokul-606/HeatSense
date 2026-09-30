@@ -1,0 +1,27 @@
+{
+    "city": "Bengaluru",
+    "start_date": "2020-01-01",
+    "end_date": "2025-12-31",
+    "low_threshold": 23.8,
+    "high_threshold": 30.0,
+    "model": "Logistic Regression",
+    "best_C": 10,
+    "test_accuracy": 0.9754799467781791,
+    "mean_time_series_cv_accuracy": 0.9724224452554745,
+    "cv_std": 0.0018353369242601427,
+    "features": [
+        "temperature_2m",
+        "relative_humidity_2m",
+        "precipitation",
+        "wind_speed_10m",
+        "shortwave_radiation",
+        "hour",
+        "day",
+        "month",
+        "day_of_year",
+        "season_Monsoon",
+        "season_Post-Monsoon",
+        "season_Summer",
+        "season_Winter"
+    ]
+}
